@@ -1,6 +1,7 @@
 Sample banking microservice project
 
 Modules
+
  -Accounts
  -Cards
  -Loans
